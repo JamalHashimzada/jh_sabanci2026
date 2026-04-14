@@ -4,6 +4,9 @@ This is my DSA 210 project. Basically I wanted to see if things like sleep, soci
 
 I tracked myself every day for about 6 weeks and wrote down stuff like how many hours I slept, how long I studied, how much I was on my phone etc. Then I gave myself a procrastination score each day honestly.
 
+*Project Proposal was updated (from the feedback)*
+*Notebook was updated (from the feedback)*
+
 ## To-Do List
 
 - [x] Checkpoint 1 (Apr 14) - data collection, EDA, hypothesis testing
