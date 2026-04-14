@@ -6,6 +6,6 @@ I tracked myself every day for about 6 weeks and wrote down stuff like how many 
 
 ## Milestones
 
-- [x] Milestone 1 (Apr 14) - data, graphs, hypothesis testing
-- [ ] Milestone 2 (May 5) - machine learning
-- [ ] Final report (May 18)
+- [x] Checkpoint 1 (Apr 14) - data collection, EDA, hypothesis testing
+- [ ] Checkpoint 2 (May 5) - machine learning
+- [ ] Final (May 18)
