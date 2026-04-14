@@ -1,41 +1,32 @@
-# DSA 210 – Analyzing and Predicting Procrastination Behavior Using Daily Digital Habits
+# Analyzing and Predicting Procrastination Behavior Using Daily Digital Habits
 
-## Project Overview
-This project investigates how daily digital habits (social media usage, screen time, sleep, study hours) relate to procrastination behavior. The goal is to identify key patterns and build predictive models for procrastination levels.
+This is my DSA 210 project. Basically I wanted to see if things like sleep, social media and studying affect how much I procrastinate.
 
-## Dataset
-- **Source:** Self-collected daily tracking data (March 3 – April 13, 2026)
-- **Size:** 42 daily observations
-- **Features:**
-  - `sleep_hours` – Hours of sleep per night
-  - `study_hours` – Hours spent studying
-  - `screen_time` – Total daily screen time (hours)
-  - `social_media_time` – Social media usage (hours)
-  - `planned_tasks` – Number of tasks planned for the day
-  - `completed_tasks` – Number of tasks actually completed
-  - `stress_level` – Self-reported stress level (1–10)
-  - `procrastination_score` – Composite procrastination score (1–10)
+I tracked myself every day for about 6 weeks and wrote down stuff like how many hours I slept, how long I studied, how much I was on my phone etc. Then I gave myself a procrastination score each day honestly.
 
-## Repository Structure
-```
-├── procrastination_data.csv       # Dataset
-├── procrastination_analysis.ipynb # Main analysis notebook (EDA + hypothesis tests)
-├── requirements.txt               # Python dependencies
-└── README.md                      # This file
-```
+## What I tracked
 
-## How to Reproduce
-1. Clone this repository
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Open and run the notebook:
-   ```bash
-   jupyter notebook procrastination_analysis.ipynb
-   ```
+- Sleep hours
+- Study hours
+- Social media time
+- Screen time
+- How many tasks I planned and how many I actually did
+- Stress level (1-10)
+- Procrastination score (1-10)
+
+## Files
+
+- `procrastination_data.csv` - my data
+- `procrastination_analysis.ipynb` - the notebook
+- `requirements.txt` - stuff you need to install
+- `README.md` - this
+
+## How to run
+
+Open the notebook in Google Colab and you're good to go.
 
 ## Milestones
-- [x] Milestone 1 (Apr 14): Data collection, EDA, hypothesis testing
-- [ ] Milestone 2 (May 5): Machine learning models
-- [ ] Final Report (May 18)
+
+- [x] Milestone 1 (Apr 14) - data, graphs, hypothesis testing
+- [ ] Milestone 2 (May 5) - machine learning
+- [ ] Final report (May 18)
